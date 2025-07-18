@@ -1,3 +1,8 @@
-
-Nível 1
-SuperStore
+ "source": [
+    "# Nível 1: SuperStore: \n",
+    "Esse nível é o primeiro contato com a Análise de Dados, o objetivo dele é explicar:\n
+    * conceitos básicos da Análise de Dados\n
+    * EDA\n
+    * Funções do Google Sheets
+    * Fundamentos de um dashboard\n"
+   ]
