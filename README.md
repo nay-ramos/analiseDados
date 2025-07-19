@@ -6,9 +6,9 @@ O curso é dividido em 9 Níveis sendo 8 deles conteúdo e o nível 9 um projeto
 
 # Roteiro
 
-**1. Primeiro contato com Análise de dados: Google Sheets**
-   - SuperStore   (Nível 1)
-   - Hotel Bookings   (Nível 2)
+**1. Primeiro contato com Análise de dados: Google Sheets**  (Níveis 1 e 2)
+   - [SuperStore](https://github.com/nay-ramos/analiseDados/blob/f89371a4e881991a322d596469b0506e94ce7144/startingProjects/SuperStore.ipynb)
+   - Hotel Bookings 
 
 **2. Conhecendo outras ferramentas: Power BI**
 
