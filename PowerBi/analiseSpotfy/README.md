@@ -38,7 +38,7 @@ Nesse nível, a gente apredeu sobre:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="50" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freelogovectors.net%2Fwp-content%2Fuploads%2F2023%2F11%2Fpower-bi-logo-freelogovectors.net_.png&f=1&nofb=1&ipt=2f84247c1d4e69b5a7522206cce09ed30fa32893a14301e9de71c2bf97b651c1" />
 
-&nbsp;&nbsp;PowerBi (DAX e PowerQuery)
+&nbsp;&nbsp;PowerBI (DAX e PowerQuery)
 
 ---
 
