@@ -3,7 +3,7 @@ Esse repositório conscentra a minha evolução no estudo de análise de dados. 
 O curso é dividido em 9 Níveis sendo 8 deles conteúdo e o nível 9 um projeto individual.
 
 
-# Roteiro
+# Projetos DataViz Télos
 
 **1. Google Sheets**  (Níveis 1 e 2)
    - [SuperStore](https://github.com/nay-ramos/analiseDados/blob/f89371a4e881991a322d596469b0506e94ce7144/startingProjects/SuperStore.ipynb)
