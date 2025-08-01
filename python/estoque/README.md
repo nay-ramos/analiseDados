@@ -1,22 +1,32 @@
-Esse repositório conscentra a minha evolução no estudo de análise de dados. O estudo é direcionado pelo Bootcamp da Télos.ia, empresa focada em trazer mulheres para o mercado de trabalho da tecnologia e a turma que faço parte é a da ThoughtWorks.
+# Controle de Estoque em Python
 
-O curso é dividido em 9 Níveis sendo 8 deles conteúdo e o nível 9 um projeto individual.
+Esse sistema de controle de estoque foi feito em Pyhton com os sequintes requisitos:
 
+* Cadastrar produtos
+* Listar produtos em estoque
+* Atualizar quantidades
+* Aplicar descontos nos produtos
+* verificar o valor total em estoque
+* 
+---
 
-# Roteiro
+### 🛠 Sistema:
 
-**1. Google Sheets**  (Níveis 1 e 2)
-   - [SuperStore](https://github.com/nay-ramos/analiseDados/blob/f89371a4e881991a322d596469b0506e94ce7144/startingProjects/SuperStore.ipynb)
-   - [Hotel Bookings](https://github.com/nay-ramos/analiseDados/blob/main/startingProjects/HotelBooking.ipynb) 
+<img width="432" height="215" alt="image" src="https://github.com/user-attachments/assets/49e7f69a-cb59-4698-83df-102564739098" />
 
-**2. Power BI** (Nível 3)
+---
 
-   - Spotfy (Nível 3)
-   - Spotfy junto com a Squad da Télos 
+### Código
 
-**3. Python (Níveis 4 e 5)**
-  - Curso em vídeo Guanabara
-  - Projeto de estoque (Nível 4)
-  - EDA Netflix (Nível 5)
+produtos: Dicionário que armazena os produtos, onde a chave é o ID e o valor é um dicionário com nome, quantidade e preço.
+função | ação
+-------|------
+menuProd() | <font size="2"> menu de opções</font>
+addProduto() | <font size="2"> inclui novo produto, preço e qualtidade </font>
+buscarProduto(nProduto) | <font size="2"> busca um produto pelo seu nome </font>
+atualizarQtd() | <font size="2"> atualiza a quantidade em estoque </font>
+aplicarDesconto() | <font size="2"> aplica desconto optado pelo usuário </font>
+repetirAcao(acao) | <font size="2"> repete a ação atual até que o usuário não queira mais realizá-la</font>
+exibirTotal() | <font size="2"> exite o total em estoque </font>
+listarProdutos() | <font size="2"> retorna uma lista de nomes de produtos, quantidades e preço </font>
 
-**4. KPIs e OKRs (Nível 6)**
