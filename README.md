@@ -16,6 +16,6 @@ O curso é dividido em 9 Níveis sendo 8 deles conteúdo e o nível 9 um projeto
 
 **3. Python (Níveis 4 e 5)**
   - [Projeto de estoque de produtos](https://github.com/nay-ramos/analiseDados/tree/main/python/estoque)
-  - EDA Netflix (Nível 5)
+  - EDA Netflix
 
 **4. KPIs e OKRs (Nível 6)**
