@@ -11,7 +11,7 @@ O curso é dividido em 9 Níveis sendo 8 deles conteúdo e o nível 9 um projeto
 
 **2. Power BI** (Nível 3)
 
-   - Spotfy (Nível 3)
+   - [Spotfy (Nível 3)](https://github.com/nay-ramos/analiseDados/tree/main/PowerBi/analiseSpotfy)
    - Spotfy junto com a Squad da Télos 
 
 **3. Python (Níveis 4 e 5)**
