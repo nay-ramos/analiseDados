@@ -13,9 +13,12 @@ O curso é dividido em 9 Níveis sendo 8 deles conteúdo e o nível 9 um projeto
 
    - [Popularidade no Spotfy](https://github.com/nay-ramos/analiseDados/tree/main/PowerBi/analiseSpotfy)
    - Spotfy junto com a Squad da Télos 
-
+   - extra: Palmer Penguins Analisys
+   - 
 **3. Python** (Níveis 4 e 5)
   - [Projeto de estoque de produtos](https://github.com/nay-ramos/analiseDados/tree/main/python/estoque)
   - EDA Netflix
 
-**4. KPIs e OKRs (Nível 6)**
+**4. KPIs e OKRs (Nível 6 e 7)**
+
+
