@@ -2,7 +2,7 @@ Esse repositório concentra a minha evolução no estudo de análise de dados. O
 
 O curso é dividido em 9 Níveis sendo 8 deles conteúdo e o nível 9 um projeto individual.
 
-##2025
+## 2025
 # Projetos DataViz Télos
 
 **1. Google Sheets**  (Níveis 1 e 2)
@@ -19,6 +19,7 @@ O curso é dividido em 9 Níveis sendo 8 deles conteúdo e o nível 9 um projeto
   - [Projeto de estoque de produtos](https://github.com/nay-ramos/analiseDados/tree/main/python/estoque)
 
 
-##2026
+## 2026
 # Projetos independentes
-1. Analise de dados do instagram de candidatos à presidência nas eleições 2026
+1. Databricks + PowerBI
+- Analise de dados do instagram de candidatos à presidência nas eleições 2026
