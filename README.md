@@ -1,8 +1,8 @@
-Esse repositório conscentra a minha evolução no estudo de análise de dados. O estudo é direcionado pelo Bootcamp da Télos.ia, empresa focada em trazer mulheres para o mercado de trabalho da tecnologia e a turma que faço parte é a da ThoughtWorks.
+Esse repositório concentra a minha evolução no estudo de análise de dados. O estudo é direcionado pelo Bootcamp da Télos.ia, empresa focada em trazer mulheres para o mercado de trabalho da tecnologia e a turma que faço parte é a da ThoughtWorks.
 
 O curso é dividido em 9 Níveis sendo 8 deles conteúdo e o nível 9 um projeto individual.
 
-
+##2025
 # Projetos DataViz Télos
 
 **1. Google Sheets**  (Níveis 1 e 2)
@@ -17,8 +17,8 @@ O curso é dividido em 9 Níveis sendo 8 deles conteúdo e o nível 9 um projeto
      
 **3. Python** (Níveis 4 e 5)
   - [Projeto de estoque de produtos](https://github.com/nay-ramos/analiseDados/tree/main/python/estoque)
-  - EDA Netflix
-
-**4. KPIs e OKRs (Nível 6 e 7)**
 
 
+##2026
+# Projetos independentes
+1. Analise de dados do instagram de candidatos à presidência nas eleições 2026
