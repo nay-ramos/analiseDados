@@ -18,6 +18,9 @@ O curso é dividido em 9 Níveis sendo 8 deles conteúdo e o nível 9 um projeto
 **3. Python** (Níveis 4 e 5)
   - [Projeto de estoque de produtos](https://github.com/nay-ramos/analiseDados/tree/main/python/estoque)
 
+**4. Projeto final** (Nível 9)
+  - [Análise de dados do Airbnb em Nova York](https://github.com/nay-ramos/analiseDados/tree/main/python/estoque)
+
 
 ## 2026
 # Projetos independentes
